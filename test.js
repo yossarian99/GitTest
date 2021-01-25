@@ -10,3 +10,4 @@ let m;
         }
 else console.log("m rozne od k");
 }
+aaqa
