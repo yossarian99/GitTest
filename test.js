@@ -5,5 +5,5 @@ if(k==1){
         else {console.log("k nie równa sie 1")
 
 
-
+console.log("dupa dupa";
 }
